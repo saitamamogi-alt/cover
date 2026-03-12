@@ -1,0 +1,99 @@
+.border
+{
+    background-image: url("ino.jpg");
+    border-style: solid;
+    border-color: rgb(43, 226, 55);
+    width: 800px;
+    height: 1400px;
+    border-radius: 50px;
+}
+.heading
+{
+    padding: 25px;
+    text-align: left;
+    color: red;
+}
+.paragraph
+{
+    font-size: 20px;
+    letter-spacing: 1.2;
+    top: 100px;
+    padding: 50px;
+    font-weight: bold;
+}
+.border2
+{
+    background-color: rgb(9, 112, 114);
+    border-style: solid;
+    border-color:rgb(13, 173, 58);
+    margin-inline-start: 50px;    
+    margin-inline-end: 50px;
+    line-height: 3;
+    height: 100px;
+    border-radius: 40px;
+}
+.quote
+{
+    letter-spacing: 1.2;
+    text-align: left;
+    font-size: 20px;
+    padding-left: 100px;
+    font-style: italic;
+    font-weight: bold;
+}
+.border3
+{
+    background-color: rgb(15, 130, 145);
+    border-style: solid;
+    border-color: rgb(20, 163, 49);
+    margin-inline-start: 50px;
+    margin-inline-end: 50px;
+    border-radius: 40px;
+}
+.personal
+{
+    letter-spacing: 1.2;
+    top: 50px;
+    padding: 50px;
+    font-weight: bold;  
+    font-size: 20;    
+}
+.border4
+{
+    background-color: rgb(27, 149, 210);
+    border-style: solid;
+    border-color: rgb(8, 165, 53);
+    margin-inline-start: 50px;
+    margin-inline-end: 50px;
+    border-radius: 40px;
+}
+.box
+{
+    margin-inline-start: 50px;
+    margin-inline-end: 50px;
+
+    width: 600px;
+    padding: 30px;
+    background-color:rgb(7, 97, 95);
+    border: 5px solid #17e933;
+    border-radius: 20px;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.publisher
+{
+    letter-spacing: 1.2;
+    font-weight: bold;
+    font-size: 20;
+}
+
+.price
+{
+    letter-spacing: 1.2;
+    font-weight: bold;
+    font-size: 20;
+
+}
